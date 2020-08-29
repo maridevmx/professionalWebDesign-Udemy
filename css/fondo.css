@@ -1,0 +1,19 @@
+body {
+    /* background: black; */
+    background-image: url('img/eight_horns.png');
+    background-repeat: repeat;
+    /* background-size: cover; */
+    background-attachment: scroll;
+    /* background-position: center center; */
+
+    /* background-image: url('img/bg.jpg'); */
+    /* background: url('img/bg.jpg') no-repeat fixed center center;*/
+}
+
+/* .fondo {
+    width: 600px;
+    height: 600px;
+    background: url('img/bg.jpg') #000;
+    background-repeat: no-repeat;
+    background-size: 50%;
+} */
