@@ -1,0 +1,55 @@
+body {
+    background: #f2f2f2;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div {
+    margin: 20px 0px;
+}
+
+.btn {
+    background: #231942;
+    color: #fff;
+    font-size: 16px;
+    text-decoration: none;
+    padding: 15px 20px;
+    display: inline-block;
+    margin: 0px 10px;
+}
+
+/* Tamaños */
+
+.btn:hover {
+    opacity: .6;
+}
+
+.small {
+    font-size: 14px;
+    padding: 10px 15px;
+}
+
+.medium {
+    font-size: 16px;
+    padding: 15px 20px;
+}
+
+.big {
+    font-size: 18px;
+    padding: 20px 25px;
+}
+
+.extra-big {
+    font-size: 20px;
+    padding: 25px 30px;
+}
+
+/* Colores */
+.navy {background: #5e548e;}
+.mountain {background: #9f86c0;}
+.lilac {background: #be95c4;}
+.pink {background: #e0b1cb;}
+
+/* Efectos */
+.border-radius{
+    border-radius: 10px;
+}
