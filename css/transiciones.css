@@ -1,0 +1,14 @@
+.caja {
+    width: 200px;
+    height: 200px;
+    background: #21295c;
+    transition: all 2s ease;
+    /* transition-delay: 2s; */
+}
+
+.caja:hover {
+    background: #9eb3c2;
+    /* width: 400px; */
+    transform: translateX(200px)
+}
+

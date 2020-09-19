@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'MavenProRegular';
+    src: url('fonts/MavenPro-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'MavenProMedium';
+    src: url('fonts/MavenPro-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'MavenProSemiBold';
+    src: url('fonts/MavenPro-SemiBold.ttf');
+}
+
+@font-face {
+    font-family: 'MavenProBold';
+    src: url('fonts/MavenPro-Bold.ttf');
+}
+
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
+
+h1 {
+    font-weight: normal;
+}
+
+p {
+    font-weight: 700;
+}
