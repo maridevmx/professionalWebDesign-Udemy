@@ -5,7 +5,7 @@
 * Flexbox
 
 ## Información del curso 📚
-Diseño Web Profesional El Curso Completo, Práctico y desde 0 - (https://www.udemy.com/course/diseno-web/)
+Diseño Web Profesional El Curso Completo, Práctico y desde 0 - https://www.udemy.com/course/diseno-web/
 
 ## Agradecimientos 🎁
 Al profesor Carlos Arturo [FalconMasters](http://www.falconmasters.com/) por compartir sus conocimientos 🤓.
