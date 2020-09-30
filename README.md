@@ -3,6 +3,7 @@
 * Diseño de páginas Web con HTML y CSS
 * Responsive Design
 * Flexbox
+* SASS
 
 ## Información del curso 📚
 Diseño Web Profesional El Curso Completo, Práctico y desde 0 - https://www.udemy.com/course/diseno-web/
